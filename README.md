@@ -1,6 +1,5 @@
 # 🧠 Customer Segment Analysis Report
-
-**Author:** [Your Name]  
+ 
 **Tools:** SQL (BigQuery), Jupyter Notebook
 
 ## 📌 Project Overview
@@ -76,4 +75,4 @@ jupyter notebook Polished_Customer_Segment_Analysis_Report.ipynb
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](#) or check out more of my work on [GitHub](#).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/minh-phan-0409) or check out more of my work on [GitHub](https://github.com/MinhPhanBabsonMSBA).
