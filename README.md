@@ -42,7 +42,7 @@ This project aims to analyze customer purchase data to identify and understand c
 
 ```bash
 📁 Customer-Segment-Analysis/
-├── Polished_Customer_Segment_Analysis_Report.ipynb   # Main analysis notebook
+├── Customer_Segment_Analysis_Report.ipynb   # Main analysis notebook
 ├── README.md                                          # Project overview
 ```
 
