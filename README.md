@@ -58,7 +58,7 @@ cd Customer-Segment-Analysis
 
 2. Open the notebook:
 ```bash
-jupyter notebook Polished_Customer_Segment_Analysis_Report.ipynb
+jupyter notebook Customer_Segment_Analysis_Report.ipynb
 ```
 
 3. Follow the step-by-step analysis and SQL queries used for segmentation.
